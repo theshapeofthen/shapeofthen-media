@@ -1,0 +1,2 @@
+test_id,started,variable,arm_a,arm_b,slug,change_made,before_metric,after_metric,status,decided_on,note
+T1,2026-11-04,hook_pattern,A,B..D,rotation,,,,open,,Shorts hook rotation A-D; winner rule in claude/EXPERIMENTS.md

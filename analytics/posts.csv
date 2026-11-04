@@ -1,0 +1,5 @@
+post_id,date_ct,format,slug,platform,title,hook_pattern,structure,title_style,caption_style,ending,topic_type,test_variable,test_arm,length_s,buffer_id,video_id
+2026-11-04-vienna-yt,2026-11-04 13:00,short,vienna-ringstrasse,youtube,This Vienna street used to be a fortress,A,cold-open-today,statement,,loop,city-layout,hook_pattern,A,59.5,6aeaa81db8d162e0d8fffcd7,
+2026-11-04-vienna-ig,2026-11-04 13:00,short,vienna-ringstrasse,instagram,,A,cold-open-today,,short,loop,city-layout,hook_pattern,A,59.5,6aeaa82469ad1ef03b752605,
+2026-11-05-lisbon-yt,2026-11-05 13:00,short,lisbon-baixa-grid,youtube,Why is downtown Lisbon a grid? (1755 earthquake),B,mystery-question,question,,loop,disaster,hook_pattern,B,56.7,6aeab90087b7c6d24c8f84af,
+2026-11-05-lisbon-ig,2026-11-05 13:00,short,lisbon-baixa-grid,instagram,,B,mystery-question,,short,loop,disaster,hook_pattern,B,56.7,6aeab911b8d162e0d804b4a2,
