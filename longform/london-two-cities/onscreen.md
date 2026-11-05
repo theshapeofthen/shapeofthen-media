@@ -1,0 +1,6 @@
+# Planned on-screen text (besides captions = narration)
+- Hook title (frame 0): "The City's towers stand inside a ROMAN wall"
+- Chapter cards: Chapter 1 The wall / Chapter 2 Fortress London / Chapter 3 The king moves west / Chapter 4 Who holds the leash? / Chapter 5 Two fires / Chapter 6 Walk it today
+- Era chips (top-left): "c. AD 50", "AD 60-61", "c. AD 200", "c. 410", "c. 600", "871", "886", "c. 1050-1065", "1066", "1067", "c. 1078", "1097", "1189", "1215", "1666", "1834", "1835", "Today"
+- Map labels: "Thames", "Londinium", "Roman bridge", "Forum & basilica", "Roman wall", "Aldgate", "Bishopsgate", "Moorgate", "Ludgate", "Newgate", "Lundenwic (around today's Strand and Aldwych)", "Viking winter camp, 871 (probable site)", "Southwark", "Thorney Island", "Westminster Abbey", "Edward's palace", "White Tower", "Westminster Hall", "Guildhall", "The City", "Westminster", "Pudding Lane", "Old St Paul's", "Wren's plan (schematic)", "Brick or stone by law", "St Paul's", "House of Lords", "Palace of Westminster", "Clock tower (Big Ben)", "Roman wall, Tower Hill", "The Square Mile", "Temple Bar", "Strand"
+- Map honesty: the diorama is schematic (positions approximate, building shapes stylized).
