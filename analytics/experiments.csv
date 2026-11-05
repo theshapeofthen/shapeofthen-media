@@ -1,2 +1,3 @@
 test_id,started,variable,arm_a,arm_b,slug,change_made,before_metric,after_metric,status,decided_on,note
 T1,2026-11-04,hook_pattern,A,B..D,rotation,,,,open,,Shorts hook rotation A-D; winner rule in claude/EXPERIMENTS.md
+N1,2026-11-05,hook_pattern,C,(A/B/D/E slate arms),florence-ponte-vecchio,,,,open,,nightly 2026-11-04: second arm-C (counterfactual) sample; London #3 (arm C) still unposted; predicted 81/80 script, title 68

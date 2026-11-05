@@ -3,3 +3,5 @@ post_id,date_ct,format,slug,platform,title,hook_pattern,structure,title_style,ca
 2026-11-04-vienna-ig,2026-11-04 13:00,short,vienna-ringstrasse,instagram,,A,cold-open-today,,short,loop,city-layout,hook_pattern,A,59.5,6aeaa82469ad1ef03b752605,
 2026-11-05-lisbon-yt,2026-11-05 13:00,short,lisbon-baixa-grid,youtube,Why is downtown Lisbon a grid? (1755 earthquake),B,mystery-question,question,,loop,disaster,hook_pattern,B,56.7,6aeab90087b7c6d24c8f84af,
 2026-11-05-lisbon-ig,2026-11-05 13:00,short,lisbon-baixa-grid,instagram,,B,mystery-question,,short,loop,disaster,hook_pattern,B,56.7,6aeab911b8d162e0d804b4a2,
+2026-11-05-florence-yt,2026-11-05 13:00,short,florence-ponte-vecchio,youtube,Florence's duke couldn't knock down this tower,C,almost-didnt-happen,statement,,loop,single-building-politics,hook_pattern,C,58.0,6aec39293ddb81d22117df45,
+2026-11-05-florence-ig,2026-11-05 13:00,short,florence-ponte-vecchio,instagram,,C,almost-didnt-happen,,short,loop,single-building-politics,hook_pattern,C,58.0,6aec393575052a1eb82ec7c6,
