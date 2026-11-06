@@ -7,3 +7,5 @@ post_id,date_ct,format,slug,platform,title,hook_pattern,structure,title_style,ca
 2026-11-05-florence-ig,2026-11-05 13:00,short,florence-ponte-vecchio,instagram,,C,almost-didnt-happen,,short,loop,single-building-politics,hook_pattern,C,58.0,6aec393575052a1eb82ec7c6,
 2026-11-06-washington-ig,2026-11-06 07:00,short,washington-height-limit,instagram,,boldClaim,cold-open-today;open-v2,,story,loop,city-law,topic_geography,US,57.7,6aec95d0924874358a8654c4,
 2026-11-07-barcelona-ig,2026-11-07 22:00,short,barcelona-eixample,instagram,,unknown,two-plans-fight;open-unknown,,short,question,city-layout,ending,Q,41.4,6aec945ab0178c307afd9ccd,
+2026-11-09-copenhagen-yt,2026-11-09 13:00,short,copenhagen-christiansborg,youtube,Denmark's parliament sits on a bishop's island,E,character-led;open-v2,statement,,loop,single-building-politics,hook_pattern,E,57.8,6aee061fd6bbae6fa1342e1f,
+2026-11-09-copenhagen-ig,2026-11-09 13:00,short,copenhagen-christiansborg,instagram,,E,character-led;open-v2,,story,loop,single-building-politics,hook_pattern,E,57.8,6aee0620229bf05daff8ebc0,

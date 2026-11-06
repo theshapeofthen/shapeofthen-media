@@ -3,3 +3,4 @@ when_utc,task,balance_before,balance_after,calls
 2026-11-05T02:50Z,nightly 6:15 PM (florence-ponte-vecchio),25,25,balance + instagram_owner_insights (free)
 2026-11-06T11:46Z,daily data ledger,25,25,balance + instagram_owner_insights (free); vidiq_user_videos skipped (5 credits)
 2026-11-06T12:20Z,owner session (3 vidiq_update_video + user_videos),25,5,Washington/Barcelona/Florence metadata
+2026-11-06T16:55Z,nightly producer (copenhagen-christiansborg),25,25,balance + instagram_owner_insights (free) at run start; 0 paid credits used (owner session separately spent to 5)
