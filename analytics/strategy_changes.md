@@ -9,3 +9,10 @@
 - vidIQ balance is 45 (not 120); old caps summed to ~80 before the 4 Dec renewal. New caps: optimizer <=10/long-form, weekly review <=3, worker/nightly/ledger 0. Reason: avoid running dry mid-month.
 - Old Shorts polish task (1:25/3:25 PM) merged into one daily optimizer at 2:25 PM (Shorts polish + long-form 7-day checkpoints). Reason: the task had been renamed to long-form optimizer but still ran the Shorts prompt.
 - Nightly, ledger and weekly-review prompts rewritten to read STRATEGY/HUMAN_STYLE/LEARNING and write analytics/ (posts, metrics, experiments, credits, strategy_changes).
+
+## 2026-11-06 (owner session)
+- Owner removed the sound credit line everywhere (OWNER_OVERRIDES.md). Ledger, optimizer, nightly, weekly and long-form prompts updated. Risk noted: Oculus pack is CC BY 4.0.
+- Owner schedules YouTube in Studio (not Buffer). Known: Washington P_1_OZj4nkQ Fri 7:00 AM CT; Barcelona yBEuBqwPF8Q Sat 10:00 PM CT.
+- Titles/descriptions/tags rewritten by hand: Washington ("Why DC has no skyscrapers (it's not the Capitol)"), Barcelona ("Barcelona picked one plan. Madrid built another."), Florence (description/tags only). Title-test comparisons use the original live titles (posts.csv).
+- vidIQ credits: 25 -> about 5 after 3 paid video updates. Renews 4 Dec.
+- Scheduled tasks nightly, optimizer and long-form hit USAGE_LIMIT_REACHED on recent runs.
