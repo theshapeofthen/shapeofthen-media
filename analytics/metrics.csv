@@ -1,1 +1,5 @@
 measured_at_utc,slug,platform,age_h,views,engaged_views,likes,comments,shares,saves,subs_gained,avg_view_pct,avg_view_s,watch_hours,source
+2026-11-06T02:14Z,lisbon-baixa-grid,youtube,33.2,111,,1,0,,,,,,,"buffer list_posts (24h checkpoint, logged late; first ledger row). YT avg view %/viewed-vs-swiped unavailable: vidiq_user_videos costs 5 credits, skipped"
+2026-11-06T02:14Z,vienna-ringstrasse,youtube,31.2,1382,,36,0,,,,,,,"buffer list_posts (24h checkpoint, logged late). YT retention/swipe unavailable (vidiq_user_videos 5 credits, skipped)"
+2026-11-06T11:46Z,lisbon-baixa-grid,instagram,42.7,2032,,28,4,0,3,,67.2,37.6,16.13,"vidiq instagram_owner_insights (24h checkpoint, late); skip rate 27.4%; reach 1553 (buffer 01:28Z) -> plays/reach 1.31; watch_hours from buffer; follows per post unavailable"
+2026-11-06T11:46Z,vienna-ringstrasse,instagram,40.7,2037,,36,0,6,2,,45.3,26.7,11.89,"vidiq instagram_owner_insights (24h checkpoint, late); skip rate 32.7%; reach 1605 (buffer 01:28Z) -> plays/reach 1.27; watch_hours from buffer; follows per post unavailable"
