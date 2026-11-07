@@ -5,3 +5,4 @@ when_utc,task,balance_before,balance_after,calls
 2026-11-06T12:20Z,owner session (3 vidiq_update_video + user_videos),25,5,Washington/Barcelona/Florence metadata
 2026-11-06T16:55Z,nightly producer (copenhagen-christiansborg),25,25,balance + instagram_owner_insights (free) at run start; 0 paid credits used (owner session separately spent to 5)
 2026-11-06T23:42Z,daily data ledger,0,0,balance + instagram_owner_insights + instagram_connected_accounts (free); vidiq_user_videos skipped; balance shows 0 total credits (OWNER_OVERRIDES said ~5)
+2026-11-07T20:25Z,daily optimizer,0,0,balance only (free); no vidIQ edits per OWNER_OVERRIDES 2026-11-07; no long-form published
