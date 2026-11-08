@@ -12,3 +12,5 @@ post_id,date_ct,format,slug,platform,title,hook_pattern,structure,title_style,ca
 2026-11-06-washington-yt,2026-11-06 07:00,short,washington-height-limit,youtube,Washington's skyline isn't capped by the Capitol,boldClaim,cold-open-today;open-v2,statement,,loop,city-law,topic_geography,US,57.7,6aedd02ffe170ba623bb1aa6,P_1_OZj4nkQ
 2026-11-07-barcelona-yt,2026-11-07 22:00,short,barcelona-eixample,youtube,Barcelona picked one plan. Madrid built another.,unknown,two-plans-fight;open-unknown,statement,,question,city-layout,ending,Q,41.4,,yBEuBqwPF8Q
 2026-11-08-london-ig,2026-11-08 19:45,short,london-great-fire,instagram,,C,almost-didnt-happen;open-v2,,short,question,city-layout,hook_pattern,C,57.8,6aedd6a77032496092e963a9,
+2026-11-10-amsterdam-yt,2026-11-10 13:00,short,amsterdam-piles,youtube,Amsterdam should have sunk. Here's why it didn't.,boldClaim,problem-reveal;open-v3,statement,,loop,city-foundations,title_style,A,49.5,6af02ab9229bf05daf9a5f39,
+2026-11-10-amsterdam-ig,2026-11-10 13:00,short,amsterdam-piles,instagram,,boldClaim,problem-reveal;open-v3,,short,question,city-foundations,,,49.5,6af02abb004e4879a7a2ae43,
