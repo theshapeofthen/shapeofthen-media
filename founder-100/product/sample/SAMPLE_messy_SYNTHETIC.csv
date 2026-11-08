@@ -1,0 +1,6 @@
+SKU,Name,Price,Qty
+mug 01,red  ceramic MUG,"$12.5",10
+MUG01,duplicate row,12,1
+tee-02,blue t-shirt,"1,200",abc
+,no sku item,5,1
+cap-03,=HYPERLINK("http://x"),free,4

@@ -1,0 +1,12 @@
+# secrets, raw customer data, financial identifiers, local DBs/exports
+.env*
+*.key
+*.pem
+secrets/
+clients/
+sales/contacts_private/
+finance/raw/
+*.sqlite
+*.db
+exports/
+downloads/

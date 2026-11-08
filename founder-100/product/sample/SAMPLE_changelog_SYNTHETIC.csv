@@ -1,0 +1,8 @@
+source_row,action,detail
+2,edited,name normalized for MUG01
+3,removed,duplicate sku MUG01
+4,unresolved,bad qty 'abc' for TEE-02
+4,edited,name normalized for TEE-02
+5,unresolved,missing sku
+6,unresolved,bad price 'free' for CAP-03
+6,edited,name normalized for CAP-03

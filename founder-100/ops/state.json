@@ -1,0 +1,35 @@
+{
+  "project": "founder-100",
+  "updated_utc": "2026-11-08",
+  "phase": "pre-launch: selection + compliance research complete (cycle 1); awaiting owner gates",
+  "owner": {"name": "Evan Ridenour", "structure": "sole proprietor (owner-stated 2026-11-08; no filing verified)", "location": "Fort Worth, Texas (owner-stated); county/city of operation not yet verified"},
+  "selected_offer": "OFFER-001: Messy product/inventory spreadsheet cleanup into import-ready CSV for small online sellers",
+  "money": {
+    "currency": "USD",
+    "budget_assigned_cents": 10000,
+    "budget_assigned_basis": "owner statement in chat 2026-11-08; no bank/processor balance verified",
+    "verified_cleared_cash_cents": 0,
+    "spent_cents_known": 0,
+    "ai_usage_cost": "NOT MEASURED in this environment; treated as unmeasured, not zero. Reconcile from Anthropic billing view.",
+    "proposed_reserve_cents": 2000,
+    "proposed_pre_first_sale_ai_budget_cents": 1000,
+    "available_to_commit_cents": 0,
+    "available_to_commit_note": "0 until owner verifies cleared funds and a funding account exists"
+  },
+  "authority": {
+    "spend": 0, "outreach": "draft_only", "public_publish": "draft_only", "account_creation": "none",
+    "contract_signature": "none", "payment_movement": "none", "paid_advertising": "none", "hiring": "none"
+  },
+  "enforcement": "PROMPT-ONLY. No external spend/send gateway verified. Connectors (Buffer, Gmail, Drive, Calendar) are attached to the session but NOT approved for use. High-impact execution must not run unattended.",
+  "gates": {
+    "G1_entity_and_name": "open: trade name decision (legal name vs DBA)",
+    "G2_assumed_name": "open: required only if a trade name is used (Tarrant County Clerk; verify county)",
+    "G3_sales_tax_permit": "unresolved: Texas data-processing taxability of the service",
+    "G4_funding_account": "open: owner to confirm where the $100 sits",
+    "G5_outreach_channel_and_postal_address": "open: lawful postal address for commercial email",
+    "G6_payment_method": "open: payment processor choice/terms",
+    "G7_client_terms": "open: owner/lawyer-reviewed order form + privacy notice"
+  },
+  "blockers": ["G3", "G4", "G5"],
+  "next_action": "Owner answers batch A-001..A-004 (ops/decisions.md). Meanwhile: finish prospect research (public sources only)."
+}

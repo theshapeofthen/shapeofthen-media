@@ -1,0 +1,3 @@
+{"ts":"2026-11-08","task":"T-001","actor":"agent","purpose":"scaffold core files","authority":"none_needed","external":false,"cost_cents":0,"status":"succeeded"}
+{"ts":"2026-11-08","task":"T-002","actor":"agent","purpose":"public web research (5 searches compliance, 3 market)","authority":"none_needed","external":false,"cost_cents":null,"cost_note":"AI usage unmeasured","status":"succeeded"}
+{"ts":"2026-11-08","task":"T-004","actor":"agent","purpose":"build+test local sample cleaner (synthetic data)","authority":"none_needed","external":false,"cost_cents":0,"status":"succeeded"}

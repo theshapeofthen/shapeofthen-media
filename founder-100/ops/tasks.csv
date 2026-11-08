@@ -1,0 +1,11 @@
+id,outcome,owner,depends_on,priority,cost_ceiling_cents,authority,status,evidence,next_step
+T-001,Core control files created,agent,,1,0,none_needed,done,founder-100/ops/,Review
+T-002,Candidate research (5) and selection,agent,,1,0,none_needed,done,founder-100/research/candidates.md,Owner review
+T-003,Compliance register v0,agent,,1,0,none_needed,done,founder-100/legal/compliance_register.md,Resolve unresolved items
+T-004,Labeled synthetic sample + tested cleaner script,agent,T-002,2,0,none_needed,done,founder-100/product/sample/,Review sample
+T-005,Offer / scope / intake draft,agent,T-002,2,0,none_needed,done,founder-100/sales/offer.md,Owner approval of price/terms
+T-006,Comptroller clarification on taxability (owner or agent drafts inquiry),owner,T-003,1,0,owner_action,open,,Owner contacts Comptroller or CPA
+T-007,Confirm funding account and cleared cash,owner,,1,0,owner_action,open,,Owner reply
+T-008,First prospect shortlist (up to 10; public sources only),agent,T-002,2,0,none_needed,open,,Next cycle
+T-009,Draft outreach email + follow-up + opt-out reply,agent,T-008,3,0,draft_only,open,,After shortlist
+T-010,Postal address / channel decision for commercial email,owner,,2,0,owner_action,open,,Owner reply
