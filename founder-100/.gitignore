@@ -10,3 +10,4 @@ finance/raw/
 *.db
 exports/
 downloads/
+__pycache__/
