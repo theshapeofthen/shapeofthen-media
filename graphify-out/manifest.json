@@ -1,0 +1,122 @@
+{
+  ".claude/skills/ponytail/SKILL.md": {
+    "mtime": 1794173701.8381639,
+    "seen": 1794174153.597121,
+    "ast_hash": "546be8ebd490e5b8d3b291c33442641a",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1794172732.6717203,
+    "seen": 1794174153.5971303,
+    "ast_hash": "68b329da9893e34099c7d8ad5cb9c940",
+    "semantic_hash": ""
+  },
+  "analytics/README.md": {
+    "mtime": 1794172732.9123855,
+    "seen": 1794174153.5971334,
+    "ast_hash": "edeb5ec7353890bd7c46cd83bcd59331",
+    "semantic_hash": ""
+  },
+  "analytics/packs/lisbon-baixa-grid_72h.md": {
+    "mtime": 1794172732.917497,
+    "seen": 1794174153.597135,
+    "ast_hash": "626518b68353be52bd2c25336568cbea",
+    "semantic_hash": ""
+  },
+  "analytics/packs/vienna-ringstrasse_72h.md": {
+    "mtime": 1794172732.9176714,
+    "seen": 1794174153.5971372,
+    "ast_hash": "e16cec84418499fa968e7510f4386f2a",
+    "semantic_hash": ""
+  },
+  "analytics/strategy_changes.md": {
+    "mtime": 1794172732.9176714,
+    "seen": 1794174153.5971386,
+    "ast_hash": "714276423ecc4a134426e060f6ad822d",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1794172733.1683855,
+    "seen": 1794174153.5971396,
+    "ast_hash": "471fa1eb390028460ba8e133b3832253",
+    "semantic_hash": ""
+  },
+  "privacy.html": {
+    "mtime": 1794172733.2163856,
+    "seen": 1794174153.597141,
+    "ast_hash": "22e4c0056d4c894b185823e998b99665",
+    "semantic_hash": ""
+  },
+  "test.txt": {
+    "mtime": 1794172733.2163856,
+    "seen": 1794174153.5971422,
+    "ast_hash": "9c3d5a02129b2325d0efe0e6f215617a",
+    "semantic_hash": ""
+  },
+  "amsterdam-piles/cover.jpg": {
+    "mtime": 1794172732.9123855,
+    "seen": 1794174153.597143,
+    "ast_hash": "5301861ad9029d6cdb2a92a67fea2090",
+    "semantic_hash": ""
+  },
+  "copenhagen-christiansborg/cover.jpg": {
+    "mtime": 1794172733.0323856,
+    "seen": 1794174153.5971444,
+    "ast_hash": "73c626371fb41c0bf02a61af0aabd347",
+    "semantic_hash": ""
+  },
+  "florence-ponte-vecchio/cover.jpg": {
+    "mtime": 1794172733.0323856,
+    "seen": 1794174153.5971458,
+    "ast_hash": "c86bf3d7ab7149302b1b9071a111c116",
+    "semantic_hash": ""
+  },
+  "lisbon-baixa-grid/cover.jpg": {
+    "mtime": 1794172733.1683855,
+    "seen": 1794174153.597147,
+    "ast_hash": "cb3a14aa47fc67d50b43d9160d504f5b",
+    "semantic_hash": ""
+  },
+  "vienna-ringstrasse/cover.jpg": {
+    "mtime": 1794172733.2203856,
+    "seen": 1794174153.597148,
+    "ast_hash": "bdf83a729718b930fd785d3fce6a5509",
+    "semantic_hash": ""
+  },
+  "amsterdam-piles/amsterdam-final-vertical.mp4": {
+    "mtime": 1794172732.7723856,
+    "seen": 1794174153.5971487,
+    "ast_hash": "e3fb23c2d41f109b3d2d736fc439cfb7",
+    "semantic_hash": ""
+  },
+  "amsterdam-piles/amsterdam-piles.mp4": {
+    "mtime": 1794172732.9083855,
+    "seen": 1794174153.5971496,
+    "ast_hash": "a8183c15ed386d40be666d05ba04fe9b",
+    "semantic_hash": ""
+  },
+  "copenhagen-christiansborg/copenhagen-christiansborg.mp4": {
+    "mtime": 1794172733.0283856,
+    "seen": 1794174153.5971508,
+    "ast_hash": "c177f3ecc0a9a9ea53b203c2b9ca6cd1",
+    "semantic_hash": ""
+  },
+  "florence-ponte-vecchio/florence-ponte-vecchio.mp4": {
+    "mtime": 1794172733.1643856,
+    "seen": 1794174153.5971518,
+    "ast_hash": "32f052ce61fec7b829d57df4d4d7e3c6",
+    "semantic_hash": ""
+  },
+  "lisbon-baixa-grid/lisbon-baixa-grid.mp4": {
+    "mtime": 1794172733.2163856,
+    "seen": 1794174153.5971527,
+    "ast_hash": "b29be2cc94ac703fd206197aa45aa2c0",
+    "semantic_hash": ""
+  },
+  "vienna-ringstrasse/vienna-ringstrasse.mp4": {
+    "mtime": 1794172733.2403855,
+    "seen": 1794174153.5971541,
+    "ast_hash": "591659bffdc9ef4ba92fb98820c631c9",
+    "semantic_hash": ""
+  }
+}
