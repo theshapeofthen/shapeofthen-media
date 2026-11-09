@@ -16,3 +16,4 @@ post_id,date_ct,format,slug,platform,title,hook_pattern,structure,title_style,ca
 2026-11-10-amsterdam-ig,2026-11-10 13:00,short,amsterdam-piles,instagram,,boldClaim,problem-reveal;open-v3,,short,question,city-foundations,,,49.5,6af02abb004e4879a7a2ae43,
 2026-11-10-amsterdam-yt-recut,2026-11-10 13:00,short,amsterdam-piles,youtube,Amsterdam should have sunk. Here's why it didn't.,boldClaim,problem-reveal;open-v3;recut-43.4s,statement,,question,city-foundations,title_style,A,43.4,6af09a9651492b796e488be0,
 2026-11-10-amsterdam-ig-recut,2026-11-10 13:00,short,amsterdam-piles,instagram,,boldClaim,problem-reveal;open-v3;recut-43.4s,,short,question,city-foundations,,,43.4,6af09a95229bf05dafbe908d,
+2026-11-08-london-yt,2026-11-08 19:45,short,london-great-fire,youtube,(title unknown: Buffer does not return YouTube titles),C,almost-didnt-happen;open-v2,statement,,question,city-layout,hook_pattern,C,57.8,6af12631ab61acbfaca4b1d0,wU1uXInMWOg
